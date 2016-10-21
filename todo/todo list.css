@@ -1,0 +1,14 @@
+.thumbnail > {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+h1{
+  color: black;
+}
+
+h2{
+  color: blue;
+}
